@@ -1,0 +1,2 @@
+Model/API names are intentionally configurable in .streamlit/secrets.toml.
+If a provider changes model availability, change the model name there rather than modifying application logic.
